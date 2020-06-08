@@ -14,7 +14,8 @@
 
 ## Описание веток
 
-- `git checkout master`- работа с React Hooks:
+- `git checkout master`- смотреть на [
+  CodeSandbox.io](https://7woud.csb.app/) - работа с React Hooks:
   - **useContext** - использование контекста.
   - **useState** - использование стейта.
   - **useEffect** - использование методов жизненного цикла.
