@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+#root > .App > input {
+  margin-left: 4px;
+}
+
+#root > div > div.ref > input {
+  margin-left: 5px;
+  margin-top: 10px;
+}
