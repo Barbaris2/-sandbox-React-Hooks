@@ -1,4 +1,4 @@
-![](https://github.com/Barbaris2/-sandbox-ReactJS/blob/master/src/images/sandboxreact.jpg)
+![](https://github.com/Barbaris2/-sandbox-React-Hooks/blob/master/src/images/React-Hook.png)
 
 # [sandbox] React Hooks
 
@@ -15,14 +15,14 @@
 ## Описание веток
 
 - `git checkout master`- работа с React Hooks:
-- **useContext** - использование контекста.
-- **useState** - использование стейта.
-- **useEffect** - использование методов жизненного цикла.
-- **useRef** - использование ссылок.
-- **useReducer** - использование редьюсера.
-- **useLayoutEffect** - аналог _useEffect_, который запускается синхронно, после всех изменений в DOM дереве.
-- **useCallback** - используется для возврата мемоизованного коллбека. Повышение перфоманса (аналог _shouldComponentUpdate_).
-- **useMemo** - используется для возврата сохраненного значения. Повышение перфоманса (аналог _shouldComponentUpdate_).
+  -- **useContext** - использование контекста.
+  -- **useState** - использование стейта.
+  -- **useEffect** - использование методов жизненного цикла.
+  -- **useRef** - использование ссылок.
+  -- **useReducer** - использование редьюсера.
+  -- **useLayoutEffect** - аналог _useEffect_, который запускается синхронно, после всех изменений в DOM дереве.
+  -- **useCallback** - используется для возврата мемоизованного коллбека. Повышение перфоманса (аналог _shouldComponentUpdate_).
+  -- **useMemo** - используется для возврата сохраненного значения. Повышение перфоманса (аналог _shouldComponentUpdate_).
 
 ### Ветки Подкаста:
 
